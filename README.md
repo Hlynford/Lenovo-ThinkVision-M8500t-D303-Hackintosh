@@ -10,7 +10,7 @@
 | 处理器   | 英特尔 酷睿 i5-4590                         |
 | 硬盘     | Toshiba TR200        |
 | 显卡     | Intel HD Graphics 4600 |
-| 内存     | 8 GB LPDDR3                                 |
+| 内存     | 8 GB DDR3                                 |
 | 显示器   | 配套显示器                     |
 | 声卡     | Realtek ALC662                              |
 | 有线网卡 | Intel 1217-LM                              |
