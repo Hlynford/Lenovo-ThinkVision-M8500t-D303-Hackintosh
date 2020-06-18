@@ -1,6 +1,7 @@
 # Lenovo-ThinkVision-M8500t-D303-Hackintosh
 联想ThinkVision-M8500t-D303 Catalina 10.15.5 Opencore 0.5.9黑苹果驱动
 
+## 目前使用基本完美，暂未发现问题
 
 ## 硬件配置
 
