@@ -1,5 +1,5 @@
 # Lenovo-ThinkVision-M8500t-D303-Hackintosh
-联想ThinkVision-M8500t-D303 Catalina 10.15.5 Opencore 0.5.9黑苹果驱动
+联想ThinkVision-M8500t-D303黑苹果驱动
 
 ## 目前使用基本完美，暂未发现问题
 
@@ -15,17 +15,18 @@
 | 显示器   | 配套显示器                     |
 | 声卡     | Realtek ALC662                              |
 | 有线网卡 | Intel 1217-LM                              |
+| 无线网卡 | Intel AC9560 PCI-E                              |
 
 
 ## 注意事项
 - [ ] **使用DP输出，勿使用VGA输出，VGA的显示器需购买DP装VGA线**
-- [ ] **BIOS中关闭快速启动**
 - [ ] **BIOS修改显示设置为IGA板载，不可使用独显输出**
 
 ## 驱动情况
 
 - [x] HD4600核显驱动正常，独显屏蔽
 - [x] 有线网卡驱动正常
+- [x] 无线网卡驱动正常（Intel无线网卡）
 - [x] 双屏输出正常
 - [x] USB驱动正常
 - [x] 声音输出正常
@@ -38,7 +39,10 @@
 
 
 ## 更新日志
-### 2020年6月18日 Opencore 0.5.9
+### 2020年6月18日 Catalina 10.15.5 Opencore 0.5.9
+### 2020年12月13日 BigSur 11.0.1 Opencore 0.6.4
+
+## 成品EFI查看Releases
 
 
 ## 说明
