@@ -37,8 +37,12 @@
 - [ ] **查看Releases页详细说明**
 
 ## 更新日志
-### 2020年6月18日 Catalina 10.15.5 Opencore 0.5.9
+
+### 2022年3月8日 Monterey 12.2.1 OpenCore 0.7.8
+
 ### 2020年12月16日 BigSur 11.0.1 Opencore 0.6.4
+
+### 2020年6月18日 Catalina 10.15.5 Opencore 0.5.9
 
 ## 成品EFI查看Releases
 
